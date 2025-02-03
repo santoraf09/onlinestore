@@ -1,0 +1,30 @@
+.carousel img {
+  max-height: 250px;
+  object-fit: cover;
+}
+
+.sidebar {
+  background-color: #f8f9fa;
+  padding: 15px;
+  height: 100vh;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  margin-bottom: 10px;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.card img {
+  max-height: 200px; /* Limita a altura das imagens dos produtos */
+  object-fit: cover;
+}
